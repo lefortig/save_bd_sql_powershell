@@ -1,0 +1,14 @@
+Script de sauvegarde pour base de donnée Windows SQL Server 2008.
+
+Testé sous:
+- SE
+	- Windows Server 2008
+	- Windows Server 2008  R2
+- BD
+	- Windows SQL Server 2008
+	- Windows SQL Server 2008 R2
+	
+Pré requis
+Powershell V1 d'installé sur le serveur.
+Autorisé les scripts à s'exectuer:
+	Set-ExecutionPolicy RemoteSigned
